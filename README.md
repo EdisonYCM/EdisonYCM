@@ -35,3 +35,8 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/EdisonYCM/count.svg)
 
+<!-- 常用语言占比统计 --> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonYCM&layout=compact&theme=tokyonight)
+
+
+
