@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 - 🔭 I'm currently an undergraduate student at **Nankai University**.  
 - 🌱 I’m currently learning **Cyber Science** and **Law**!
 - 📫 Please feel free to contact me : ancestorycm@outlook.com if you are interested in my projects!
-
-
 - 💬 Ask me about cyber law, open-source security, or university life!  
-- 📫 How to reach me: edison_ycm@example.com (or via [LinkedIn](链接))  
+
 <!--
 - 👯 I’m looking to collaborate on cybersecurity projects or legal-tech initiatives.  
 - 🤔 I’m looking for help with ... (e.g., blockchain security, legal informatics)  
+- 📫 How to reach me: edison_ycm@example.com (or via [LinkedIn](链接))  
 - ⚡ Fun fact: I love solving CTF challenges and reading sci-fi novels!  
 -->
 <!-- 可选：保留注释用于临时记录或草稿 -->  
 <!-- 例如：待补充的项目链接：[My Project](link) -->  
 
+<!-- 仓库状态统计 -->  
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdisonYCM&show_icons=true&theme=tokyonight)
+<!-- 访问人数统计 -->  
+![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
 
