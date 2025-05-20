@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 <a href="https://clustrmaps.com/site/1c65b" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=H30ZQ3N-bQy_hclyMRd7bcp0GZZtOGg8ufOdwTkKeJk&cl=ffffff"></a>
 -->  
 
-![Visitor Count](https://profile-counter.glitch.me/EdisonYCM/count.svg)
+Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/EdisonYCM/count.svg)visitor, Thank You!🎉🎉
 
 <!-- 常用语言占比统计 --> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonYCM&layout=compact&theme=tokyonight)
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonYCM&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EdisonYCM&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
 
 
