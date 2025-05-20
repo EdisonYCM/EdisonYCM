@@ -1,6 +1,59 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nice+To+Meet+U,+This+is+Edison!;Welcome+to+my+homepage!)](https://github.com/EdisonYCM)
 ## Hello World! 👋
 
+- 🔭 I'm currently an undergraduate student at **Nankai University**.  
+- 🌱 I’m currently learning **Cyber Science** and **Law**!
+- 📫 Please feel free to contact me : ancestorycm@outlook.com if you are interested in my projects!
+- 💬 Ask me about cyber law, open-source security, or university life!  
+- 🚀 I use daily:
+  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://github.com/EdisonYCM/)
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://github.com/EdisonYCM/)
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://github.com/EdisonYCM/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/EdisonYCM/)
+  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/EdisonYCM/)
+  
+<!-- 访问人数统计 -->  
+<a href="https://info.flagcounter.com/GzXI"><img src="https://s01.flagcounter.com/map/GzXI/size_m/txt_221CD4/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<!--
+<a href="https://clustrmaps.com/site/1c65b" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=H30ZQ3N-bQy_hclyMRd7bcp0GZZtOGg8ufOdwTkKeJk&cl=ffffff"></a>
+-->  
+
+Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/EdisonYCM/count.svg)visitor, Thank You!🎉🎉
+
+<!-- 常用语言占比统计 --> 
+<a href="https://github.com/EdisonYCM/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EdisonYCM&show_icons=true&theme=swift" />
+</a>
+<a href="https://github.com/EdisonYCM/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdisonYCM&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<!-- 奖杯 --> 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EdisonYCM&margin-w=15&no-bg=true&no-frame=true" /> </div>
+
+![](https://activity-graph.herokuapp.com/graph?username=EdisonYCM&theme=github)
+
+
+<!-- 项目展示 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdisonYCM&repo=github-readme-stats)](https://github.com/EdisonYCM/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+--> 
+
+
+
+
+
+
+
+<!-- 仓库状态统计 
+![EdisonYCM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdisonYCM&show_icons=true&theme=swift)
+-->  
 <!--
 **EdisonYCM/EdisonYCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -22,13 +75,6 @@ Here are some ideas to get you started:
 <!-- 可选：保留注释用于临时记录或草稿 -->  
 <!-- 例如：待补充的项目链接：[My Project](link) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://linweiqian.github.io/linweiqianBlog/)
--->  
-
-- 🔭 I'm currently an undergraduate student at **Nankai University**.  
-- 🌱 I’m currently learning **Cyber Science** and **Law**!
-- 📫 Please feel free to contact me : ancestorycm@outlook.com if you are interested in my projects!
-- 💬 Ask me about cyber law, open-source security, or university life!  
-
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://github.com/EdisonYCM/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/EdisonYCM/)
@@ -62,21 +108,4 @@ Here are some ideas to get you started:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://github.com/EdisonYCM/)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/EdisonYCM/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://github.com/EdisonYCM/)
-
-
-<!-- 仓库状态统计 -->  
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdisonYCM&show_icons=true&theme=tokyonight)
-<!-- 访问人数统计 -->  
-<a href="https://info.flagcounter.com/GzXI"><img src="https://s01.flagcounter.com/map/GzXI/size_m/txt_221CD4/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-
-<!--
-<a href="https://clustrmaps.com/site/1c65b" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=H30ZQ3N-bQy_hclyMRd7bcp0GZZtOGg8ufOdwTkKeJk&cl=ffffff"></a>
 -->  
-
-Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/EdisonYCM/count.svg)visitor, Thank You!🎉🎉
-
-<!-- 常用语言占比统计 --> 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonYCM&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EdisonYCM&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
-
-
-
