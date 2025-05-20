@@ -34,7 +34,7 @@ Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/EdisonYCM/
 ![](https://activity-graph.herokuapp.com/graph?username=EdisonYCM&theme=github)
 
 <!-- 项目展示 --> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdisonYCM&repo=github-readme-stats)](https://github.com/EdisonYCM/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdisonYCM&repo=github-readme-stats)](https://github.com/EdisonYCM/Database_System)
 <!-- 项目展示 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
