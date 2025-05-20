@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Edison!;Welcome+to+my+homepage!)](https://github.com/EdisonYCM)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nice+To+Meet+U,+This+is+Edison!;Welcome+to+my+homepage!)](https://github.com/EdisonYCM)
 ## Hello World! 👋
 
 <!--
