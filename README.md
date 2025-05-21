@@ -21,10 +21,10 @@
 Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/EdisonYCM/count.svg)visitor, Thank You!🎉🎉
 
 <!-- 常用语言占比统计 --> 
-<a href="https://github.com/EdisonYCM/github-readme-stats">
+<a href="https://github.com/EdisonYCM">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EdisonYCM&show_icons=true&theme=swift" />
 </a>
-<a href="https://github.com/EdisonYCM/">
+<a href="https://github.com/EdisonYCM">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdisonYCM&layout=compact&langs_count=8&card_width=320" />
 </a>
 
