@@ -18,7 +18,7 @@
 <a href="https://clustrmaps.com/site/1c65b" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=H30ZQ3N-bQy_hclyMRd7bcp0GZZtOGg8ufOdwTkKeJk&cl=ffffff"></a>
 -->  
 
-Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/EdisonYCM/count.svg)visitor, Thank You!🎉🎉
+Welcome, You are my ![Visitor Count](https://profile-counter.deno.dev/EdisonYCM/count.svg) visitor, Thank You! 🎉🎉
 
 <!-- 常用语言占比统计 --> 
 | <a href="https://github.com/EdisonYCM"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdisonYCM&show_icons=true&theme=swift" /></a> | <a href="https://github.com/EdisonYCM"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdisonYCM&layout=compact&langs_count=8&card_width=320" /></a> |
