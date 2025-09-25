@@ -8,9 +8,14 @@
 - 🚀 I use daily:
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://github.com/EdisonYCM/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://github.com/EdisonYCM/)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://github.com/EdisonYCM/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/EdisonYCM/)
+  
+  <!--
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://github.com/EdisonYCM/)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/EdisonYCM/)
+  -->  
+  
+  
   
 <!-- 访问人数统计 -->  
 <a href="https://info.flagcounter.com/GzXI"><img src="https://s01.flagcounter.com/map/GzXI/size_m/txt_221CD4/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
@@ -31,7 +36,9 @@ Welcome, You are my ![Visitor Count](https://profile-counter.deno.dev/EdisonYCM/
 ![](https://activity-graph.herokuapp.com/graph?username=EdisonYCM&theme=github)
 
 <!-- 项目展示 --> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdisonYCM&repo=complier_lab)](https://github.com/EdisonYCM/complier_lab/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdisonYCM&repo=Database_System)](https://github.com/EdisonYCM/Database_System/)
+
 <!-- 项目展示 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
