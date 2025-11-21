@@ -31,7 +31,7 @@ Welcome, You are my ![Visitor Count](https://profile-counter.deno.dev/EdisonYCM/
 
 
 <!-- 奖杯 --> 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EdisonYCM&margin-w=15&no-bg=true&no-frame=true" /> </div>
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EdisonYCM&margin-w=15&no-bg=true&no-frame=true" /> </div> -->
 
 ![](https://activity-graph.herokuapp.com/graph?username=EdisonYCM&theme=github)
 
