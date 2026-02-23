@@ -28,7 +28,7 @@
 Welcome, You are my ![Visitor Count](https://profile-counter.deno.dev/EdisonYCM/count.svg) visitor, Thank You! 🎉🎉
 
 <!-- 常用语言占比统计 --> 
-| <a href="https://github.com/EdisonYCM"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdisonYCM&show_icons=true&theme=swift" /></a> | <a href="https://github.com/EdisonYCM"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdisonYCM&layout=compact&langs_count=8&card_width=320" /></a> |
+| <a href="https://github.com/EdisonYCM"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EdisonYCM&show_icons=true&theme=swift" /></a> | <a href="https://github.com/EdisonYCM"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=EdisonYCM&layout=compact&langs_count=8&card_width=320" /></a> |
 |---|---|
 
 
@@ -38,8 +38,8 @@ Welcome, You are my ![Visitor Count](https://profile-counter.deno.dev/EdisonYCM/
 ![](https://activity-graph.herokuapp.com/graph?username=EdisonYCM&theme=github)
 
 <!-- 项目展示 --> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdisonYCM&repo=complier_lab)](https://github.com/EdisonYCM/complier_lab/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdisonYCM&repo=Database_System)](https://github.com/EdisonYCM/Database_System/)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EdisonYCM&repo=complier_lab)](https://github.com/EdisonYCM/complier_lab)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EdisonYCM&repo=Database_System)](https://github.com/EdisonYCM/Database_System)
 
 <!-- 项目展示 
 <a href="https://github.com/anuraghazra/github-readme-stats">
