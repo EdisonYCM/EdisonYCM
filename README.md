@@ -2,7 +2,7 @@
 ## Hello World! 👋
 
 - 🔭 I'm currently an undergraduate student at **Nankai University**.  
-- 🌱 I’m currently learning **Cyber Science** & **Law** & **Object Tracking** especially **Text Tracking**!
+- 🌱 I’m currently learning **Cyber Science** & **Law** & **Text Tracking/Generation/editing**!
 - 📫 Please feel free to contact me : ancestorycm@outlook.com if you are interested in my projects!
 - 💬 Ask me about cyber law, open-source security, or university life!  
 - 🚀 I use daily:
