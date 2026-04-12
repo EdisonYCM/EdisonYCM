@@ -20,10 +20,8 @@
   
   
 <!-- 访问人数统计 -->  
-<a href="https://info.flagcounter.com/GzXI"><img src="https://s01.flagcounter.com/map/GzXI/size_m/txt_221CD4/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-<!--
-<a href="https://clustrmaps.com/site/1c65b" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=H30ZQ3N-bQy_hclyMRd7bcp0GZZtOGg8ufOdwTkKeJk&cl=ffffff"></a>
--->  
+<!-- <a href="https://info.flagcounter.com/GzXI"><img src="https://s01.flagcounter.com/map/GzXI/size_m/txt_221CD4/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
+<a href='https://mapmyvisitors.com/web/1c3u8'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=500&t=m&d=4iJniGDk4dWK49GFsWzJGB--4J8lM52adfKUPPeoRnU&co=2d78ad&ct=ffffff'/></a>
 
 Welcome, You are my ![Visitor Count](https://profile-counter.deno.dev/EdisonYCM/count.svg) visitor, Thank You! 🎉🎉
 
