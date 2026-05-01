@@ -36,8 +36,8 @@ Welcome, You are my ![Visitor Count](https://profile-counter.deno.dev/EdisonYCM/
 ![](https://activity-graph.herokuapp.com/graph?username=EdisonYCM&theme=github)
 
 <!-- 项目展示 --> 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EdisonYCM&repo=complier_lab)](https://github.com/EdisonYCM/complier_lab)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EdisonYCM&repo=Database_System)](https://github.com/EdisonYCM/Database_System)
+<!-- [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EdisonYCM&repo=complier_lab)](https://github.com/EdisonYCM/complier_lab)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EdisonYCM&repo=Database_System)](https://github.com/EdisonYCM/Database_System) -->
 
 <!-- 项目展示 
 <a href="https://github.com/anuraghazra/github-readme-stats">
